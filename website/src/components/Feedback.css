@@ -1,0 +1,30 @@
+.feedback input{
+    width: 7cm;
+    border: none;
+    border-bottom: 2px solid black;
+    outline: none;
+    background-color:rgb(171, 219, 219);
+    margin-top: 2cm;
+}
+.feedback{
+   box-shadow: 4px 4px 4px black;
+   width: 20cm;
+   height: 15cm;
+   margin-left: 8cm;
+
+   background-color:rgb(171, 219, 219);
+}
+.feedback label{
+    font-size: 1cm;
+    box-shadow: 4px 4px 4px black;
+    background-color: rgb(6, 134, 134);
+    border-radius: 30px 30px 30px;
+    
+}
+.feedback Button{
+    background-color: rgb(6, 134, 134); 
+    width: 12cm;
+    margin-top: 1cm;
+    font-size: .5cm;
+    font-weight: bolder;
+}

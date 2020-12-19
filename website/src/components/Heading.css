@@ -1,0 +1,13 @@
+.heading h1{
+    color: aqua;
+    text-shadow: 7px 7px 7px black;
+    font-size: 6cm;
+    margin-top: 0px;
+    border: none;
+    box-shadow: 6px 6px 6px black;
+    background-color: rgb(6, 134, 134);
+}
+.heading h1:hover{
+    background-color: whitesmoke;
+    color: rgb(6, 134, 134) ;
+}

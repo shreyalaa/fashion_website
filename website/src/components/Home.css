@@ -1,0 +1,28 @@
+.home {
+    background-color: black;
+    box-shadow: 5px 5px 5px cyan;
+}
+
+
+.home Button{
+    background-color:  rgb(6, 134, 134);
+    margin-left: 2cm;
+    height: 2cm;
+    width: 4cm;
+    box-shadow: 4px 4px 4px black;
+    color: black;
+    font-size: .5cm;
+    border-radius: 10px 10px 10px;
+    margin-top: -1cm;
+
+}
+.home Link{
+    color: black;
+   
+}
+.home p{
+    font-size: 2cm;
+    font-family: cursive;
+    color:whitesmoke;
+    margin-top: 2cm;
+}
