@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/fashion_website/static/css/main.f48c1bf8.chunk.css",
+    "main.js": "/fashion_website/static/js/main.4815e98b.chunk.js",
+    "main.js.map": "/fashion_website/static/js/main.4815e98b.chunk.js.map",
+    "runtime-main.js": "/fashion_website/static/js/runtime-main.b6b7fcd1.js",
+    "runtime-main.js.map": "/fashion_website/static/js/runtime-main.b6b7fcd1.js.map",
+    "static/js/2.7c01c7bb.chunk.js": "/fashion_website/static/js/2.7c01c7bb.chunk.js",
+    "static/js/2.7c01c7bb.chunk.js.map": "/fashion_website/static/js/2.7c01c7bb.chunk.js.map",
+    "static/js/3.d292acba.chunk.js": "/fashion_website/static/js/3.d292acba.chunk.js",
+    "static/js/3.d292acba.chunk.js.map": "/fashion_website/static/js/3.d292acba.chunk.js.map",
+    "index.html": "/fashion_website/index.html",
+    "static/css/main.f48c1bf8.chunk.css.map": "/fashion_website/static/css/main.f48c1bf8.chunk.css.map",
+    "static/js/2.7c01c7bb.chunk.js.LICENSE.txt": "/fashion_website/static/js/2.7c01c7bb.chunk.js.LICENSE.txt",
+    "static/media/Untitled.e8c47512.png": "/fashion_website/static/media/Untitled.e8c47512.png",
+    "static/media/dress.4ebd36de.png": "/fashion_website/static/media/dress.4ebd36de.png",
+    "static/media/jeans.f6d1b649.png": "/fashion_website/static/media/jeans.f6d1b649.png",
+    "static/media/logo.6ce24c58.svg": "/fashion_website/static/media/logo.6ce24c58.svg",
+    "static/media/skrt1.71014b33.png": "/fashion_website/static/media/skrt1.71014b33.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6b7fcd1.js",
+    "static/js/2.7c01c7bb.chunk.js",
+    "static/css/main.f48c1bf8.chunk.css",
+    "static/js/main.4815e98b.chunk.js"
+  ]
+}
